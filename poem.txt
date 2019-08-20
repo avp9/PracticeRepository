@@ -1,3 +1,5 @@
 The rainbow.
 Colors Blue Red
 Green
+Purple
+Yellow
