@@ -2,6 +2,10 @@ The rainbow and the Unicorn
 Colors Blue Red
 Green
 Purple
+Indigo
 Yellow
 Unicorn
 Unicorns are not ponies
+=======
+Adding ponies
+Didnt know Unicorns are ponies
